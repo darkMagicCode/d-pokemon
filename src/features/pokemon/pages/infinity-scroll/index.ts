@@ -1,0 +1,1 @@
+export { InfiniteScrollTab } from "./InfiniteScrollTab";

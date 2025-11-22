@@ -1,0 +1,1 @@
+export { PaginationTab } from "./PaginationTab";
