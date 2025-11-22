@@ -1,0 +1,34 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+dist-ssr
+build
+.vite
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+
