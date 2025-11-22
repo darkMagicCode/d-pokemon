@@ -16,7 +16,7 @@ export const transformToCards = <TItem>(
   config: TransformToCardConfig<TItem>,
 ): ContentCardProps[] => {
   return items
-    .map((item) => {
+    .map((item): ContentCardProps | null => {
       const id = config.getId(item);
 
       if (id === null || id === undefined) {
