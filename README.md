@@ -4,8 +4,8 @@ Modern React application built with Vite, TypeScript, Tailwind CSS, React Router
 
 ## 🔗 Links
 
-- **Live Demo**: [https://pokemon-browser-daftra.vercel.app/](https://pokemon-browser-daftra.vercel.app/)
-- **GitHub Repository**: [https://github.com/darkMagicCode/pokemon](https://github.com/darkMagicCode/pokemon)
+- **Live Demo**: [https://d-pokemon.vercel.app/](https://d-pokemon.vercel.app/)
+- **GitHub Repository**: [https://github.com/darkMagicCode/d-pokemon](https://github.com/darkMagicCode/d-pokemon)
 
 ## Tech Stack
 
